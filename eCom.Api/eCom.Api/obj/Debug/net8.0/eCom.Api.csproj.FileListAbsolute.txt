@@ -23,3 +23,11 @@ D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\refint\eCom.Api.dll
 D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\eCom.Api.pdb
 D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\eCom.Api.genruntimeconfig.cache
 D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\ref\eCom.Api.dll
+D:\Learning\eCom.Api\eCom.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learning\eCom.Api\eCom.Api\bin\Debug\net8.0\eCom.Core.dll
+D:\Learning\eCom.Api\eCom.Api\bin\Debug\net8.0\eCom.Infrastructure.dll
+D:\Learning\eCom.Api\eCom.Api\bin\Debug\net8.0\eCom.Core.pdb
+D:\Learning\eCom.Api\eCom.Api\bin\Debug\net8.0\eCom.Infrastructure.pdb
+D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\eCom.Api.csproj.AssemblyReference.cache
+D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\eCom.Api.sourcelink.json
+D:\Learning\eCom.Api\eCom.Api\obj\Debug\net8.0\eCom.Api.csproj.Up2Date

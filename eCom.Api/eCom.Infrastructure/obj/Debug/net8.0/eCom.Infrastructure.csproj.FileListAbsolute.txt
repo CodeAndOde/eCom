@@ -9,3 +9,8 @@ D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\eCom.Infrastructure.dl
 D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\refint\eCom.Infrastructure.dll
 D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\eCom.Infrastructure.pdb
 D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\ref\eCom.Infrastructure.dll
+D:\Learning\eCom.Api\eCom.Infrastructure\bin\Debug\net8.0\eCom.Core.dll
+D:\Learning\eCom.Api\eCom.Infrastructure\bin\Debug\net8.0\eCom.Core.pdb
+D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\eCom.Infrastructure.csproj.AssemblyReference.cache
+D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\eCom.Infrastructure.sourcelink.json
+D:\Learning\eCom.Api\eCom.Infrastructure\obj\Debug\net8.0\eCom.Inf.34D1EF6C.Up2Date

@@ -1,0 +1,13 @@
+D:\Learning\eCom.Api\eCom.Core\bin\Debug\net8.0\eCom.Core.deps.json
+D:\Learning\eCom.Api\eCom.Core\bin\Debug\net8.0\eCom.Core.dll
+D:\Learning\eCom.Api\eCom.Core\bin\Debug\net8.0\eCom.Core.pdb
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.csproj.AssemblyReference.cache
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.AssemblyInfoInputs.cache
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.AssemblyInfo.cs
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.csproj.CoreCompileInputs.cache
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.sourcelink.json
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.dll
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\refint\eCom.Core.dll
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\eCom.Core.pdb
+D:\Learning\eCom.Api\eCom.Core\obj\Debug\net8.0\ref\eCom.Core.dll
