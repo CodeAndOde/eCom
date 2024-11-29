@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNVmFEu2128=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\eCom.Api\\eCom.Core\\eCom.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jdjer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
