@@ -1,4 +1,5 @@
 using eCom.Api.Middleware;
+using eCom.Core.Mappers;
 using eCom.eCom.Core;
 using eCom.Infrastructure;
 using System.Text.Json.Serialization;
@@ -10,6 +11,7 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 {
     options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
 });
+builder.Services.AddAutoMapper(typeof(ApplicationUserMappingProfile).Assembly);
 var app = builder.Build();
 
 

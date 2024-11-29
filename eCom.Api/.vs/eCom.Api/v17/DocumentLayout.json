@@ -3,72 +3,76 @@
   "WorkspaceRootPath": "D:\\Learning\\eCom.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\ecom.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\ecom.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|d:\\learning\\ecom.api\\ecom.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|solutionrelative:ecom.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|d:\\learning\\ecom.api\\ecom.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|solutionrelative:ecom.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|d:\\learning\\ecom.api\\ecom.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|solutionrelative:ecom.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\servicecontracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\servicecontracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\repositorycontract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\repositorycontract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\ecom.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\ecom.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\authenticationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|d:\\learning\\ecom.api\\ecom.infrastructure\\dbcontext\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|solutionrelative:ecom.infrastructure\\dbcontext\\dapperdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|d:\\learning\\ecom.api\\ecom.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|solutionrelative:ecom.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|d:\\learning\\ecom.api\\ecom.infrastructure\\ecom.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D1C2159B-016F-4893-9AEC-994869E8467D}|eCom.Infrastructure\\eCom.Infrastructure.csproj|solutionrelative:ecom.infrastructure\\ecom.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|solutionrelative:ecom.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\mappers\\applicationusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\mappers\\applicationusermappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\repositorycontract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\repositorycontract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\genderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\servicecontracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\servicecontracts\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\ecom.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\ecom.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|d:\\learning\\ecom.api\\ecom.core\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F71165-EE85-4515-8A8F-91F178667BD0}|eCom.Core\\eCom.Core.csproj|solutionrelative:ecom.core\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{283B7547-1547-476E-ABB1-B1B8C0967242}|eCom.Api\\eCom.Api.csproj|d:\\learning\\ecom.api\\ecom.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -82,21 +86,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "eCom.Api",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\eCom.Api.csproj",
-              "RelativeDocumentMoniker": "eCom.Api\\eCom.Api.csproj",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\eCom.Api.csproj",
-              "RelativeToolTip": "eCom.Api\\eCom.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-29T10:11:16.887Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -111,163 +102,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "eCom.Core\\DTO\\LoginRequest.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\LoginRequest.cs",
-              "RelativeToolTip": "eCom.Core\\DTO\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:13:00.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "eCom.Core\\Entities\\ApplicationUser.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "eCom.Core\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:10:54.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T05:59:24.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "eCom.Core.csproj",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\eCom.Core.csproj",
-              "RelativeDocumentMoniker": "eCom.Core\\eCom.Core.csproj",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\eCom.Core.csproj",
-              "RelativeToolTip": "eCom.Core\\eCom.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-29T05:51:28.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "eCom.Core\\DependencyInjection.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DependencyInjection.cs",
-              "RelativeToolTip": "eCom.Core\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T05:19:17.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "eCom.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "eCom.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T05:19:39.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\Program.cs",
-              "RelativeDocumentMoniker": "eCom.Api\\Program.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\Program.cs",
-              "RelativeToolTip": "eCom.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T05:15:41.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "eCom.Core\\Services\\UserService.cs",
               "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\Services\\UserService.cs",
               "RelativeToolTip": "eCom.Core\\Services\\UserService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:00:11.235Z",
+              "WhenOpened": "2024-11-29T10:39:51.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "eCom.Api\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "eCom.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wCUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:06:49.787Z",
+              "WhenOpened": "2024-11-29T12:37:36.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "DapperDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\DBContext\\DapperDbContext.cs",
+              "RelativeDocumentMoniker": "eCom.Infrastructure\\DBContext\\DapperDbContext.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\DBContext\\DapperDbContext.cs",
+              "RelativeToolTip": "eCom.Infrastructure\\DBContext\\DapperDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:10:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "eCom.Infrastructure\\Repositories\\UserRepository.cs",
               "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "eCom.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:25:21.429Z",
+              "WhenOpened": "2024-11-29T12:05:54.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthenticationResponse.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\AuthenticationResponse.cs",
-              "RelativeDocumentMoniker": "eCom.Core\\DTO\\AuthenticationResponse.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\AuthenticationResponse.cs",
-              "RelativeToolTip": "eCom.Core\\DTO\\AuthenticationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:16:51.081Z",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "eCom.Api\\appsettings.json",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\appsettings.json",
+              "RelativeToolTip": "eCom.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T11:15:47.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "eCom.Core\\DTO\\RegisterRequest.cs",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\RegisterRequest.cs",
-              "RelativeToolTip": "eCom.Core\\DTO\\RegisterRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T07:14:19.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "GenderOptions.cs",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\GenderOptions.cs",
               "RelativeDocumentMoniker": "eCom.Core\\DTO\\GenderOptions.cs",
@@ -281,6 +181,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\Program.cs",
+              "RelativeDocumentMoniker": "eCom.Api\\Program.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\Program.cs",
+              "RelativeToolTip": "eCom.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:15:41.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "eCom.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:59:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUserMappingProfile.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "RelativeDocumentMoniker": "eCom.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "RelativeToolTip": "eCom.Core\\Mappers\\ApplicationUserMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:26:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\RepositoryContract\\IUserRepository.cs",
               "RelativeDocumentMoniker": "eCom.Core\\RepositoryContract\\IUserRepository.cs",
@@ -293,7 +232,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "AuthenticationResponse.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeDocumentMoniker": "eCom.Core\\DTO\\AuthenticationResponse.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\AuthenticationResponse.cs",
+              "RelativeToolTip": "eCom.Core\\DTO\\AuthenticationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:16:51.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "eCom.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "eCom.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:26:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "eCom.Core\\Entities\\ApplicationUser.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "eCom.Core\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:10:54.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "eCom.Core.csproj",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\eCom.Core.csproj",
+              "RelativeDocumentMoniker": "eCom.Core\\eCom.Core.csproj",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\eCom.Core.csproj",
+              "RelativeToolTip": "eCom.Core\\eCom.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T05:51:28.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eCom.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\eCom.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "eCom.Infrastructure\\eCom.Infrastructure.csproj",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\eCom.Infrastructure.csproj",
+              "RelativeToolTip": "eCom.Infrastructure\\eCom.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T05:22:32.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "eCom.Core\\DTO\\RegisterRequest.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\RegisterRequest.cs",
+              "RelativeToolTip": "eCom.Core\\DTO\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:14:19.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "eCom.Core\\DTO\\LoginRequest.cs",
+              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Core\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "eCom.Core\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:13:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IUserServices.cs",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Core\\ServiceContracts\\IUserServices.cs",
               "RelativeDocumentMoniker": "eCom.Core\\ServiceContracts\\IUserServices.cs",
@@ -306,20 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "eCom.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\eCom.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "eCom.Infrastructure\\eCom.Infrastructure.csproj",
-              "ToolTip": "D:\\Learning\\eCom.Api\\eCom.Infrastructure\\eCom.Infrastructure.csproj",
-              "RelativeToolTip": "eCom.Infrastructure\\eCom.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-29T05:22:32.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Learning\\eCom.Api\\eCom.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "eCom.Api\\Properties\\launchSettings.json",

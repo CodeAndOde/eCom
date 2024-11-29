@@ -1,4 +1,5 @@
 ﻿using eCom.Core.RepositoryContract;
+using eCom.Infrastructure.DBContext;
 using eCom.Infrastructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -14,6 +15,7 @@ namespace eCom.Infrastructure;
     public static IServiceCollection AddInfrastructure(this IServiceCollection services)
     {
         services.AddTransient<IUserRepository, UserRepository>();
+        services.AddTransient<DapperDbContext>();
         return services;
     }
 }
